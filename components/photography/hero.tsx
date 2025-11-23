@@ -40,7 +40,7 @@ export default function Hero() {
           Premium photography services for weddings, portraits, fashion, and events
         </p>
         <a href="#portfolio" className="inline-block">
-          <Button size="lg" className="bg-white text-foreground hover:bg-white/90 font-semibold">
+          <Button size="lg" className="bg-white text-black hover:bg-white/90 font-semibold">
             View Portfolio
           </Button>
         </a>
